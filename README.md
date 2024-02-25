@@ -1,4 +1,4 @@
-<img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO 3kh0.github.io FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+Jackson!;Python+Programmer;HTML+Programmer;Linux+enthusiast;Creator+of+Ultrix+OS+and+AI">
+<img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO 3kh0.github.io FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+Amplify!;Python+Programmer;HTML+Programmer;Linux+enthusiast;Creator+of+Ultrix+OS+and+AI">
 <h1 align="center">Hi, I'm <a href="https://proxy.night-x.com">Amplify</a></h1>
 <h3 align="center">A Linux enthusiast, Javascript, HTML, CSS, Python programmer, and computer Software Dev.</h3>
 <h2>Humor</h2>
