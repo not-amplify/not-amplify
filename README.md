@@ -20,7 +20,7 @@
 #### I'm Learning:
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,astro,tailwind,figma,rust,sass,docker,go,nginx,raspberrypi&perline=13" />
+  <img src="https://skillicons.dev/icons?i=ts,react,astro,tailwind,figma,rust,sass,docker,go,nginx,raspberrypi&perline=13" />
 </div>
 
 ###
