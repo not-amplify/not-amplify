@@ -1,7 +1,7 @@
 <h2 align="left">Wsp, I'm Amplify!</h2>
 <h6>Fullstack Developer, Software Engineer, HS Sophmore, Linux Enthusiast</h6>
 
-#### If you want to collaborate on a project, feel free to [contact me!](https://discord.com/users/1199165998998245377), or send me an email [here](mailto:not-amplify@night-x.com)
+#### If you want to collaborate on a project, feel free to [contact me](https://discord.com/users/1199165998998245377), or send me an email [here](mailto:not-amplify@night-x.com).
 
 ###
 
@@ -11,13 +11,13 @@
 </div>
 
 ###
-** I Know & Use**:
+#### I Know & Use:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,npm,cloudflare,vscode,github,discord,debian,linux,md,bash,py,&perline=13" />
 </div>
 
 ###
-** I'm Learning**:
+#### I'm Learning:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts,astro,tailwind,figma,rust,sass,docker,go,nginx,raspberrypi&perline=13" />
