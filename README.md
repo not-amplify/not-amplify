@@ -1,16 +1,43 @@
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I'm+Amplify!;Linux+enthusiast;Owner+of+Night+Network">
-<h1 align="center">Hi, I'm <a href="https://notamplify.online">Amplify</a></h1>
-<h3 align="center">A Linux enthusiast, Fullstack Dev</h3>
-<h2>About</h2>
-I'm a Sophmore in High School, and I code as a Hobby.
+<h2 align="left">Wsp, I'm Amplify!</h2>
+<h6>Fullstack Developer, Software Engineer, HS Sophmore, Linux Enthusiast</h6>
 
-- 🌕 I’m currently working on [Night Network](https://github.com/Night-N3twork), and its projects!
+#### If you want to collaborate on a project, feel free to [contact me!](https://discord.com/users/1199165998998245377), or send me an email [here](mailto:not-amplify@night-x.com)
 
-- 📫 You can ping me at my [email](mailto:not-amplify@night-x.com).
+###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=not-amplify&theme=github_dark)
-<hr>
-<h2>Jokes</h2>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=not-amplify&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=not-amplify&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-</html>
+###
+** I Know & Use**:
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,npm,cloudflare,vscode,github,discord,debian,linux,md,bash,py,&perline=13" />
+</div>
+
+###
+** I'm Learning**:
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts,astro,tailwind,astro,figma,rust,sass,docker,go,nginx,raspberrypi&perline=13" />
+</div>
+
+###
+
+
+<h2 align="left">Public Projects I've worked on</h2>
+
+- [DayDreamX](https://daydreamx.pro)
+
+- [Space](https://gointospace.app)
+
+<div align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=not-amplify&color=aa00ff&style=for-the-badge&label=Profile+Views"
+    alt="Profile Views"
+  />
+</div>
+
+
+###
