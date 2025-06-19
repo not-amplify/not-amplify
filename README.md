@@ -13,14 +13,14 @@
 ###
 #### I Know & Use:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,npm,cloudflare,vscode,github,discord,debian,linux,md,bash,py,&perline=13" />
+  <img src="https://skillicons.dev/icons?i=html,astro,css,tailwind,js,ts,nodejs,npm,cloudflare,vscode,github,discord,debian,linux,md,bash,py,&perline=13" />
 </div>
 
 ###
 #### I'm Learning:
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,astro,tailwind,figma,rust,sass,docker,go,nginx,raspberrypi&perline=13" />
+  <img src="https://skillicons.dev/icons?i=react,figma,rust,sass,docker,go,nginx,raspberrypi&perline=13" />
 </div>
 
 ###
